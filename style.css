@@ -21,6 +21,7 @@ body {
   line-height: 1.2;
 }
 
+/* Parte da tela principal */
 .box {
   background-color: #ccc;
   padding: 20px;
@@ -54,4 +55,51 @@ body {
 
 .pig {
   font-size: 40px;
+}
+
+/* Nova seção: Pagar com Pix */
+.pix-section {
+  margin-top: 40px;
+}
+
+.pix-section h3 {
+  text-align: center;
+}
+
+.pix-question {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  font-size: 14px;
+}
+
+.colar {
+  color: orange;
+  cursor: pointer;
+}
+
+.pix-input {
+  width: 100%;
+  padding: 10px;
+  background-color: #ccc;
+  border: none;
+  margin-bottom: 30px;
+}
+
+.outros {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.pix-options {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pix-box {
+  background-color: #ccc;
+  padding: 20px;
+  width: 45%;
+  text-align: center;
+  border: 1px solid #000;
 }
