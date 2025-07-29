@@ -1,1 +1,1 @@
-# londrinense-tech.
+# londrinense-tech
