@@ -105,4 +105,8 @@ body {
   border: 1px solid #000;
 }
 
-.btn {background-color: #ccc;}
+.btn {
+    padding: 10px 20px;
+    background-color: #ccc;
+}
+
